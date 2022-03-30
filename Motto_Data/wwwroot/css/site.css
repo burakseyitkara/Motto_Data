@@ -1,0 +1,10 @@
+﻿.menu-list a:hover {
+    background-color: #00c4a7;
+}
+div .dt-button.dropdown-item.buttons-columnVisibility.is-active {
+    background: #00c4a7;
+}
+.pagination-link.is-current{
+    background:black;
+    border-color:black;
+}
